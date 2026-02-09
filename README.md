@@ -90,10 +90,10 @@ I’m passionate about building scalable, user-friendly web applications. My foc
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Seam7819/Seam7819/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Seam7819/Seam7819/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Seam7819/Seam7819/output/pacman-contribution-graph.svg">
-</picture>
+## ⏱️ Coding Activity (WakaTime)
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Snu_Seam&layout=compact)
+
+![WakaTime Badge](https://wakatime.com/badge/user/Snu_Seam.svg)
 
 ###
