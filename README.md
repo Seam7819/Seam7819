@@ -90,10 +90,9 @@ I’m passionate about building scalable, user-friendly web applications. My foc
 
 ###
 
-## ⏱️ Coding Activity (WakaTime)
+## ⏱️ Coding Activity
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Snu_Seam&layout=compact)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Snu_Seam&layout=compact&theme=tokyonight)
 
-![WakaTime Badge](https://wakatime.com/badge/user/Snu_Seam.svg)
 
 ###
