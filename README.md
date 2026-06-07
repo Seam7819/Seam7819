@@ -7,7 +7,7 @@
 
 
 <h1 align="center">Hi there 👋, I'm Seam</h1>
-<h3 align="center"> 🚀 MERN Stack Developer | Front-End Developer | Problem Solver
+<h3 align="center"> 🚀 Full Stack Developer | Front-End Developer | Problem Solver
 
 I’m passionate about building scalable, user-friendly web applications. My focus is on modern JavaScript frameworks, clean architecture, and creating digital experiences that make an impact.</h3>
 
