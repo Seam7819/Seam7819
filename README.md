@@ -1,84 +1,92 @@
 <p align="center">
-  <img src="https://ibb.co.com/PGLGsT0K" />
+  <a href="https://ibb.co.com/PGLGsT0K">
+    <img src="https://i.ibb.co.com/tpGpwZFg/linkedin-banner.png" alt="Sultan Seam Banner" width="100%" />
+  </a>
 </p>
 
-<h1 align="center">
-Hi 👋, I'm Sultan Nasir Uddin Seam
-</h1>
+<h1 align="center">Hi 👋, I'm Sultan Nasir Uddin Seam</h1>
 
 <h3 align="center">
 🚀 Full Stack Developer • React • Next.js • TypeScript • Node.js
 </h3>
 
 <p align="center">
-Building scalable, modern web applications with clean architecture, intuitive UI, and high-performance backend systems.
+Passionate Full Stack Developer focused on building scalable, secure, and high-performance web applications. I enjoy transforming ideas into modern digital products through clean architecture, intuitive UI, and efficient backend systems.
 </p>
 
 <p align="center">
-  <a href="https://org-nu-eight.vercel.app/" target="_blank">
+  <a href="https://org-nu-eight.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/snu-seam/" target="_blank">
+  <a href="https://www.linkedin.com/in/snu-seam/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="mailto:sultan.seam23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-sultan.seam23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Seam7819&label=Profile%20Views&color=0e75b6&style=flat"/>
   <img src="https://img.shields.io/github/followers/Seam7819?label=Followers&style=flat"/>
-  <img src="https://img.shields.io/github/stars/Seam7819?affiliations=OWNER&style=flat"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-- 🎓 CSE Student at Green University of Bangladesh
-- 💻 Full Stack Developer passionate about building scalable web applications
-- ⚡ Specialized in React, Next.js, TypeScript, Node.js & PostgreSQL
-- 🌱 Currently learning AWS, Docker, CI/CD and System Design
-- 📍 Dhaka,Bangladesh
+- 🎓 Computer Science & Engineering Student at **Green University of Bangladesh**
+- 💻 Passionate Full Stack Developer with a focus on modern web technologies
+- ⚛️ Experienced with **React, Next.js, TypeScript, Node.js, Express.js, PostgreSQL, Prisma, and MongoDB**
+- 🌱 Currently learning **AWS, Docker, CI/CD, and System Design**
+- 📍 Dhaka, Bangladesh
 
-🎯 I'm currently seeking opportunities as a:
+## 💼 Open to Work
+
+I'm currently seeking opportunities as a:
 
 - 🚀 Full Stack Developer
 - ⚛️ Frontend Developer
 - 🖥️ Backend Developer
+- 💼 Software Engineer
 
 ---
 
 # 🚀 Tech Stack
 
-## Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
 </p>
 
-## Backend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,prisma,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
 </p>
 
-## Tools & Technologies
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,npm" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,npm" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🍔 Cartora
+## 🛒 Cartora
 
-A modern multi-vendor e-commerce platform with authentication, role management, meal management, ordering system, and secure backend APIs.
+A modern multi-vendor e-commerce platform where customers can browse products, manage shopping carts, place orders, and vendors can manage products through a secure and scalable architecture.
 
 ### Tech Stack
 
@@ -94,30 +102,30 @@ A modern multi-vendor e-commerce platform with authentication, role management, 
 
 ### Live Demo
 
-🔗 https://org-nu-eight.vercel.app/
+🌐 https://org-nu-eight.vercel.app/
 
-### GitHub
+### Source Code
 
 Frontend
 
-https://github.com/Seam7819/foodHub-frontend
+https://github.com/Seam7819/cartora-frontend
 
 Backend
 
-https://github.com/Seam7819/foodHub-backend
+https://github.com/Seam7819/cartora-backend
 
 ---
 
 ## 🏥 Health Care
 
-A healthcare management platform featuring secure authentication, role-based authorization, appointment management, and scalable backend architecture.
+A healthcare management platform featuring secure authentication, appointment booking, role-based authorization, and scalable backend architecture.
 
 ### Tech Stack
 
 - Next.js
 - Node.js
 - Express.js
-- Prisma
+- Prisma ORM
 - PostgreSQL
 - TypeScript
 
@@ -126,20 +134,12 @@ A healthcare management platform featuring secure authentication, role-based aut
 # 📈 GitHub Statistics
 
 <p align="center">
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=Seam7819&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seam7819&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Seam7819&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seam7819&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img
-src="https://streak-stats.demolab.com?user=Seam7819&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Seam7819&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -147,7 +147,7 @@ src="https://streak-stats.demolab.com?user=Seam7819&theme=tokyonight&hide_border
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Seam7819&theme=tokyonight&no-frame=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Seam7819&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 ---
@@ -155,7 +155,7 @@ src="https://streak-stats.demolab.com?user=Seam7819&theme=tokyonight&hide_border
 # ⏱️ Weekly Coding Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Snu_Seam&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Snu_Seam&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -163,7 +163,7 @@ src="https://streak-stats.demolab.com?user=Seam7819&theme=tokyonight&hide_border
 # 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Seam7819&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Seam7819&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -171,32 +171,22 @@ src="https://streak-stats.demolab.com?user=Seam7819&theme=tokyonight&hide_border
 # 🤝 Connect With Me
 
 <p align="center">
-
-<a href="https://org-nu-eight.vercel.app/">
-Portfolio
-</a>
-•
-<a href="https://www.linkedin.com/in/snu-seam/">
-LinkedIn
-</a>
-•
-<a href="mailto:sultan.seam23@gmail.com">
-Email
-</a>
-
+  <a href="https://org-nu-eight.vercel.app/">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/snu-seam/">LinkedIn</a> •
+  <a href="mailto:sultan.seam23@gmail.com">Email</a>
 </p>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Career Goals
 
 - 🚀 Secure a Full Stack Developer position
-- ☁️ Learn AWS & Cloud Infrastructure
-- 🏗 Master System Design
+- ☁️ Master AWS & Cloud Infrastructure
+- 🏗️ Deepen expertise in System Design
 - 🧠 Strengthen Data Structures & Algorithms
 - 🌍 Contribute to Open Source
-- ✍️ Publish technical articles
-- 📱 Build SaaS products
+- ✍️ Share knowledge through technical articles
+- 📦 Build scalable SaaS applications
 
 ---
 
@@ -205,5 +195,5 @@ Email
 </h3>
 
 <p align="center">
-<i>"Building software that creates real-world impact."</i>
+<i>"Building software that solves real-world problems, one project at a time."</i>
 </p>
