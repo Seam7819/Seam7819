@@ -50,7 +50,6 @@ I'm currently looking for opportunities as a:
 - 🚀 Full Stack Developer
 - ⚛️ Frontend Developer
 - 🖥️ Backend Developer
-- 💼 Software Engineer
 
 ---
 
