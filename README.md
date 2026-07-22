@@ -11,26 +11,26 @@
 </h3>
 
 <p align="center">
-Passionate Full Stack Developer focused on building scalable, secure, and high-performance web applications. I enjoy transforming ideas into modern digital products through clean architecture, intuitive UI, and efficient backend systems.
+Passionate Full Stack Developer focused on building scalable, secure, and high-performance web applications. I enjoy turning ideas into modern digital products through clean architecture, intuitive UI, and efficient backend systems.
 </p>
 
 <p align="center">
-  <a href="https://org-nu-eight.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <a href="https://org-nu-eight.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 
-  <a href="https://www.linkedin.com/in/snu-seam/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/snu-seam/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 
   <a href="mailto:sultan.seam23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-sultan.seam23%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Seam7819&label=Profile%20Views&color=0e75b6&style=flat"/>
-  <img src="https://img.shields.io/github/followers/Seam7819?label=Followers&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Seam7819&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Seam7819?label=Followers&style=flat" alt="Followers"/>
 </p>
 
 ---
@@ -38,14 +38,14 @@ Passionate Full Stack Developer focused on building scalable, secure, and high-p
 # 💫 About Me
 
 - 🎓 Computer Science & Engineering Student at **Green University of Bangladesh**
-- 💻 Passionate Full Stack Developer with a focus on modern web technologies
-- ⚛️ Experienced with **React, Next.js, TypeScript, Node.js, Express.js, PostgreSQL, Prisma, and MongoDB**
+- 💻 Passionate Full Stack Developer focused on building scalable web applications
+- ⚡ Experienced with **React, Next.js, TypeScript, Node.js, Express.js, PostgreSQL, Prisma ORM, MongoDB, and Tailwind CSS**
 - 🌱 Currently learning **AWS, Docker, CI/CD, and System Design**
 - 📍 Dhaka, Bangladesh
 
 ## 💼 Open to Work
 
-I'm currently seeking opportunities as a:
+I'm currently looking for opportunities as a:
 
 - 🚀 Full Stack Developer
 - ⚛️ Frontend Developer
@@ -58,26 +58,26 @@ I'm currently seeking opportunities as a:
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" />
 </p>
 
 ### Backend
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
 </p>
 
 ### Database
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
 </p>
 
 ### Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,npm" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,npm" />
 </p>
 
 ---
@@ -88,7 +88,19 @@ I'm currently seeking opportunities as a:
 
 A modern multi-vendor e-commerce platform where customers can browse products, manage shopping carts, place orders, and vendors can manage products through a secure and scalable architecture.
 
-### Tech Stack
+### ✨ Key Features
+
+- 🔐 Secure Authentication & Authorization
+- 👤 Role-Based Access Control
+- 🛍️ Product Management
+- 🛒 Shopping Cart
+- 📦 Order Management
+- ❤️ Wishlist
+- 💳 Secure Checkout
+- 📱 Fully Responsive UI
+- ⚡ Fast & Scalable Architecture
+
+### 🛠 Tech Stack
 
 - Next.js
 - React
@@ -100,11 +112,11 @@ A modern multi-vendor e-commerce platform where customers can browse products, m
 - Better Auth
 - Tailwind CSS
 
-### Live Demo
+### 🌐 Live Demo
 
-🌐 https://org-nu-eight.vercel.app/
+https://org-nu-eight.vercel.app/
 
-### Source Code
+### 💻 Source Code
 
 Frontend
 
@@ -118,9 +130,18 @@ https://github.com/Seam7819/cartora-backend
 
 ## 🏥 Health Care
 
-A healthcare management platform featuring secure authentication, appointment booking, role-based authorization, and scalable backend architecture.
+A healthcare management platform that streamlines appointment scheduling, patient management, and secure authentication through a scalable backend architecture.
 
-### Tech Stack
+### ✨ Key Features
+
+- 🔐 Authentication
+- 👨‍⚕️ Doctor Management
+- 🩺 Patient Management
+- 📅 Appointment Booking
+- 🛡️ Role-Based Authorization
+- 📱 Responsive Design
+
+### 🛠 Tech Stack
 
 - Next.js
 - Node.js
@@ -134,12 +155,20 @@ A healthcare management platform featuring secure authentication, appointment bo
 # 📈 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Seam7819&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seam7819&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=Seam7819&show_icons=true&theme=tokyonight&hide_border=true"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seam7819&layout=compact&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Seam7819&theme=tokyonight&hide_border=true"/>
+  <img
+    src="https://streak-stats.demolab.com?user=Seam7819&theme=tokyonight&hide_border=true"
+  />
 </p>
 
 ---
@@ -152,14 +181,6 @@ A healthcare management platform featuring secure authentication, appointment bo
 
 ---
 
-# ⏱️ Weekly Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Snu_Seam&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
@@ -168,12 +189,22 @@ A healthcare management platform featuring secure authentication, appointment bo
 
 ---
 
+# ⏱️ Weekly Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Snu_Seam&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
 # 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://org-nu-eight.vercel.app/">🌐 Portfolio</a> •
-  <a href="https://www.linkedin.com/in/snu-seam/">LinkedIn</a> •
-  <a href="mailto:sultan.seam23@gmail.com">Email</a>
+
+🌐 <a href="https://org-nu-eight.vercel.app/" target="_blank">Portfolio</a> •
+💼 <a href="https://www.linkedin.com/in/snu-seam/" target="_blank">LinkedIn</a> •
+📧 <a href="mailto:sultan.seam23@gmail.com">sultan.seam23@gmail.com</a>
+
 </p>
 
 ---
@@ -185,15 +216,13 @@ A healthcare management platform featuring secure authentication, appointment bo
 - 🏗️ Deepen expertise in System Design
 - 🧠 Strengthen Data Structures & Algorithms
 - 🌍 Contribute to Open Source
-- ✍️ Share knowledge through technical articles
-- 📦 Build scalable SaaS applications
+- ✍️ Share technical knowledge through blogs and articles
+- 📦 Build scalable SaaS products
 
 ---
 
-<h3 align="center">
-💙 Thanks for visiting my profile!
-</h3>
+<h3 align="center">💙 Thanks for visiting my profile!</h3>
 
 <p align="center">
-<i>"Building software that solves real-world problems, one project at a time."</i>
+<i>"Code with purpose. Build with passion. Never stop learning."</i> 🚀
 </p>
