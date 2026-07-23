@@ -15,7 +15,7 @@ Passionate Full Stack Developer focused on building scalable, secure, and high-p
 </p>
 
 <p align="center">
-  <a href="https://org-nu-eight.vercel.app/" target="_blank">
+  <a href="https://snu-seam.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 
