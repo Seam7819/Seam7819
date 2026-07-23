@@ -200,7 +200,7 @@ A healthcare management platform that streamlines appointment scheduling, patien
 
 <p align="center">
 
-🌐 <a href="https://org-nu-eight.vercel.app/" target="_blank">Portfolio</a> •
+🌐 <a href="https://snu-seam.vercel.app/">Portfolio</a> •
 💼 <a href="https://www.linkedin.com/in/snu-seam/" target="_blank">LinkedIn</a> •
 📧 <a href="mailto:sultan.seam23@gmail.com">sultan.seam23@gmail.com</a>
 
